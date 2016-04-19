@@ -6,6 +6,7 @@ namespace Core
     public static class PhonewordTranslator
     {
         public static int _num;
+        public static string _str;
 
         public static string ToNumber(string raw)
         {
