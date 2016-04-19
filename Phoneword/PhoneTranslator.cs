@@ -7,6 +7,7 @@ namespace Core
     {
         public static int _num;
         public static string _str;
+        public static string _onlyInBranch;
 
         public static string ToNumber(string raw)
         {
